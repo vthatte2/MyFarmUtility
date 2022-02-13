@@ -1,0 +1,6 @@
+ac41d603c779f54fadf5bfd756ff06bdda116968 refs/heads/deploy
+459b26a0b08fc8e8c1bcfe44e13e1db415590e5d refs/remotes/origin/HEAD
+5ac3895f53826f53eac4ed4d0174dde94849fb74 refs/remotes/origin/deploy
+9c5e5d9a8bf32088004648c12e9533859f2cd538 refs/remotes/origin/dev
+459b26a0b08fc8e8c1bcfe44e13e1db415590e5d refs/remotes/origin/master
+4758c0c59b36b04883a90fdab745a560b3e31408 refs/remotes/origin/revert-1-deploy
