@@ -83,7 +83,7 @@ threadpoolctl==2.1.0
 toml==0.10.2
 torch==1.7.1
 torchaudio==0.7.2
-torchvision==0.8.1
+torchvision==0.1.6
 tornado==6.1
 traitlets==5.0.5
 txt2tags==3.7
